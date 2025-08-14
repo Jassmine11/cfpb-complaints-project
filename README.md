@@ -39,3 +39,4 @@ Data Handling & Compliance
 	•	PII Redaction: Personally identifiable information removed using spaCy and regex.
 	•	Audit Logging: Logs kept for all data processing and AI prompts/responses to ensure traceability and compliance.
  
+Field reference : https://cfpb.github.io/api/ccdb/fields.html
